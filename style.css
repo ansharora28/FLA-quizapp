@@ -22,16 +22,18 @@ body {
 }
 
 .context {
-    width: 100%;
     position: absolute;
-    top: 50vh;
+    top: 90%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Center both horizontally and vertically */
 }
 
-.context h1 {
+.context p {
     text-align: center;
     color: #fff;
-    font-size: 50px;
+    font-size: 25px;
 }
+
 
 .area {
     background: #4e54c8;
