@@ -22,20 +22,24 @@
 
 
 <div align="center">
-<img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img5.jpg" /> 
-<img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/quiz.jpg" />
-<img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/quiz1.jpg" />
+ ![image](https://github.com/ansharora28/FLA-quizapp/assets/89684245/b565503a-48c7-4e6b-8a84-36295b7795e6)
+ ![image](https://github.com/ansharora28/FLA-quizapp/assets/89684245/bdd1f7c4-2ab8-44fe-af73-a0423049a828)
+ ![image](https://github.com/ansharora28/FLA-quizapp/assets/89684245/4e1187c2-d18e-44ef-b4f7-6f816c68b7c7)
+![image](https://github.com/ansharora28/FLA-quizapp/assets/89684245/2af8427b-cb04-4bbd-b4a5-748b7d3bbfab)
+![image](https://github.com/ansharora28/FLA-quizapp/assets/89684245/c182c0a0-bdc3-471e-a0f3-863a8912135e)
+![image](https://github.com/ansharora28/FLA-quizapp/assets/89684245/e2668eb8-7445-4a2e-b50f-0dfff78de5ec)
+
 </div>
 
 
 <div align="center">
 <sub>This Quiz Application is created by
-<a href="https://github.com/ValentineFernandes">Valentine Fernandes </a>
+<a href="https://github.com/ansharora28">Ansh Arora </a>, Suraj H, Prit Patel, Mrinal M.
 </sub>
 </div>
 
 # 📝 Features 
-✅ This is a quiz application website. <br>
+✅ This is a quiz application website to test your knowledge on Automata. <br>
 ✅ Each question is alloted 15 seconds, where user has to complete the quiz before time. 
 
 # 💻 Technologies used
@@ -47,10 +51,5 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 # 🌐 Visit the website here
-<a href="https://valentinefernandes.github.io/Quiz-Application/">
-<img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/github.png"></a>
-&nbsp;<a href="https://quizapplsite.netlify.app"><img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/netlify.jpg"></a>
-&nbsp;<a href="https://quiz-application-pearl.vercel.app/"><img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/vercel.png"></a>
+<a href="https://flaquiz-six.vercel.app/">
 
-# 📕 License
-This project is under <a href="https://github.com/ValentineFernandes/Quiz-Application/blob/main/LICENSE">MIT</a> license.
