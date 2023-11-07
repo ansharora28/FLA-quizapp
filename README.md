@@ -12,7 +12,8 @@
  ![image](https://github.com/ansharora28/FLA-quizapp/assets/89684245/4e1187c2-d18e-44ef-b4f7-6f816c68b7c7)
 ![image](https://github.com/ansharora28/FLA-quizapp/assets/89684245/2af8427b-cb04-4bbd-b4a5-748b7d3bbfab)
 ![image](https://github.com/ansharora28/FLA-quizapp/assets/89684245/c182c0a0-bdc3-471e-a0f3-863a8912135e)
-![image](https://github.com/ansharora28/FLA-quizapp/assets/89684245/e2668eb8-7445-4a2e-b50f-0dfff78de5ec)
+![image](https://github.com/ansharora28/FLA-quizapp/assets/89684245/ad2daea9-30f6-4cc8-aa90-d09d0f6e3c20)
+
 
 </div>
 
